@@ -1,0 +1,22 @@
+### My extensions
+- Angular Language Service
+- Atom One Dark Theme
+- Code Spell
+- Color Highlight
+- Dart
+- EditorConfig
+- ESLint
+- Flutter
+- GitHub Copilot
+- gitignore
+- GitLens
+- HTML Snippets
+- Live Server
+- Material Icons
+- One Dark Pro
+- Prettier
+- Preview
+- Rainbow brackets
+- Docker extensions
+- vscode-styled-components
+- Svelte for VS Code
