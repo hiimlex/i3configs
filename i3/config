@@ -118,10 +118,11 @@ bindsym $mod+space focus mode_toggle
 # focus the parent container
 bindsym $mod+a focus parent
 
-# Lock menu
+# Rofi
 bindsym $mod+Shift+m exec "rofi -show drun"
 
-# Rofi
+# Power menu
+bindsym $mod+Shift+e exec "rofi -show power-menu -modi power-menu:rofi-power-menu"
 
 # lock screen
 bindsym $mod+l exec "i3lock -c 000000"
