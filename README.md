@@ -1,1 +1,1 @@
-#I3 Config
+### Just my i3 configs
